@@ -25,6 +25,6 @@ git remote add origin https://github.com/hadziqmtqn/nama-project.git
 git push -u origin main
 ```
 
-Sumber :
-https://www.niagahoster.co.id/blog/git-tutorial-dasar/
+Sumber : <br/>
+https://www.niagahoster.co.id/blog/git-tutorial-dasar/ <br/>
 https://www.geeksforgeeks.org/how-to-install-configure-and-use-git-on-ubuntu/
